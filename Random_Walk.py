@@ -4,7 +4,7 @@ from turtle import *
 colors = ["medium blue", "steel blue", "gold", "dark magenta", "dark red", "dark green",
           "dark slate blue", "sandy brown", "slate gray", "chartreuse", "dodger blue", "saddle brown"
           ]
-colormode(255)
+
 solma = Turtle()
 
 
